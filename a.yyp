@@ -34,11 +34,13 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
     {"id":{"name":"obj_1","path":"objects/obj_1/obj_1.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"spr_BatManIdle","path":"sprites/spr_BatManIdle/spr_BatManIdle.yy",},},
     {"id":{"name":"spr_cara","path":"sprites/spr_cara/spr_cara.yy",},},
     {"id":{"name":"Obj_Colis","path":"objects/Obj_Colis/Obj_Colis.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
