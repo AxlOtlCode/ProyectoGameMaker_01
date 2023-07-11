@@ -17,6 +17,8 @@
   ],
   "ResourceOrderSettings": [
     {"name":"TileSet2","order":2,"path":"tilesets/TileSet2/TileSet2.yy",},
+    {"name":"Sprite3","order":18,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"spr_cara","order":1,"path":"sprites/spr_cara/spr_cara.yy",},
+    {"name":"Obj_Colis","order":17,"path":"objects/Obj_Colis/Obj_Colis.yy",},
   ],
 }
