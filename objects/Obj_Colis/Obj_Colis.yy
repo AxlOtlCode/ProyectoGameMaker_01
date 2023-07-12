@@ -3,7 +3,6 @@
   "resourceVersion": "1.0",
   "name": "Obj_Colis",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_1","path":"objects/obj_1/obj_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
@@ -34,8 +33,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "Sprite3",
-    "path": "sprites/Sprite3/Sprite3.yy",
+    "name": "Spr_Col",
+    "path": "sprites/Spr_Col/Spr_Col.yy",
   },
   "spriteMaskId": null,
   "visible": false,
