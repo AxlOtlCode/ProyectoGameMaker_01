@@ -5,6 +5,7 @@
     {"name":"Fonts","order":8,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":14,"path":"folders/Notes.yy",},
     {"name":"Objects","order":10,"path":"folders/Objects.yy",},
+    {"name":"grupo1","order":3,"path":"folders/Objects/grupo1.yy",},
     {"name":"Particle Systems","order":16,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":5,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":11,"path":"folders/Rooms.yy",},
@@ -13,9 +14,8 @@
     {"name":"Shaders","order":7,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":1,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
-    {"name":"Timelines","order":9,"path":"folders/Timelines.yy",},
-    {"name":"grupo1","order":3,"path":"folders/Objects/grupo1.yy",},
     {"name":"Batman","order":4,"path":"folders/Sprites/Batman.yy",},
+    {"name":"Timelines","order":9,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_Player","order":2,"path":"objects/obj_Player/obj_Player.yy",},
