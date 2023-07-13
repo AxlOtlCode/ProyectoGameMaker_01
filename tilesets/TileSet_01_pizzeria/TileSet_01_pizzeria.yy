@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "spr_tileSet_01",
-    "path": "sprites/spr_tileSet_01/spr_tileSet_01.yy",
+    "name": "spr_tileSet_floor_01",
+    "path": "sprites/spr_tileSet_floor_01/spr_tileSet_floor_01.yy",
   },
   "spriteNoExport": true,
   "textureGroupId": {

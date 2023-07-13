@@ -26,6 +26,7 @@
     {"name":"spr_player_ywalk_Up","order":5,"path":"sprites/spr_player_ywalk_Up/spr_player_ywalk_Up.yy",},
     {"name":"spr_charCol","order":5,"path":"sprites/spr_charCol/spr_charCol.yy",},
     {"name":"Spr_Col","order":2,"path":"sprites/Spr_Col/Spr_Col.yy",},
+    {"name":"spr_tileSet_walls_01","order":2,"path":"sprites/spr_tileSet_walls_01/spr_tileSet_walls_01.yy",},
     {"name":"spr_tileSet_02_furniture","order":1,"path":"sprites/spr_tileSet_02_furniture/spr_tileSet_02_furniture.yy",},
     {"name":"Obj_Colis","order":1,"path":"objects/Obj_Colis/Obj_Colis.yy",},
   ],
