@@ -23,4 +23,3 @@ if (!keyboard_check(vk_anykey)){
 	sprite_index = spr_player_idle_down;
 	image_xscale = 1;
 }
-depth = -y;
