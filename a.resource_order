@@ -15,7 +15,7 @@
     {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
     {"name":"Player","order":2,"path":"folders/Sprites/Player.yy",},
     {"name":"Player2","order":4,"path":"folders/Sprites/Player2.yy",},
-    {"name":"Tiles","order":3,"path":"folders/Sprites/Tiles.yy",},
+    {"name":"Tiles","order":5,"path":"folders/Sprites/Player2/Tiles.yy",},
     {"name":"Timelines","order":9,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
