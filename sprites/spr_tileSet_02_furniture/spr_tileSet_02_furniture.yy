@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_tileSet_02_furniture",
-  "bbox_bottom": 93,
+  "bbox_bottom": 94,
   "bbox_left": 36,
   "bbox_right": 254,
   "bbox_top": 3,
@@ -21,6 +21,7 @@
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"464fae5a-2768-4153-9b95-242881e7c261","blendMode":0,"displayName":"Layer 1","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3cf2446d-8a30-4828-b2a3-55bc8924c030","blendMode":0,"displayName":"Layer 2","isLocked":false,"opacity":100.0,"visible":true,},
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"67a8e4e5-41c0-41c2-8698-a366c3432a6c","blendMode":0,"displayName":"default","isLocked":false,"opacity":40.0,"visible":false,},
   ],
   "nineSlice": null,
