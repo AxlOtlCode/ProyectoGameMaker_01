@@ -36,11 +36,13 @@
     "IDEVersion": "2023.6.0.89",
   },
   "resources": [
+    {"id":{"name":"Obj_Hazard","path":"objects/Obj_Hazard/Obj_Hazard.yy",},},
     {"id":{"name":"spr_player_idle_down","path":"sprites/spr_player_idle_down/spr_player_idle_down.yy",},},
     {"id":{"name":"spr_player_xwalk","path":"sprites/spr_player_xwalk/spr_player_xwalk.yy",},},
     {"id":{"name":"spr_player_ywalk_Down","path":"sprites/spr_player_ywalk_Down/spr_player_ywalk_Down.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
     {"id":{"name":"spr_tileSet_floor_01","path":"sprites/spr_tileSet_floor_01/spr_tileSet_floor_01.yy",},},
+    {"id":{"name":"Spr_Hazard","path":"sprites/Spr_Hazard/Spr_Hazard.yy",},},
     {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
     {"id":{"name":"spr_tileSet_texures_01","path":"sprites/spr_tileSet_texures_01/spr_tileSet_texures_01.yy",},},
     {"id":{"name":"spr_player_ywalk_Up","path":"sprites/spr_player_ywalk_Up/spr_player_ywalk_Up.yy",},},
