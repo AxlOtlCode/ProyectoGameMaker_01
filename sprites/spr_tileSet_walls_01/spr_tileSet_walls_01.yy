@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_tileSet_walls_01",
-  "bbox_bottom": 95,
+  "bbox_bottom": 127,
   "bbox_left": 0,
   "bbox_right": 255,
   "bbox_top": 0,
@@ -20,7 +20,9 @@
   "height": 256,
   "HTile": false,
   "layers": [
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"76b89916-c422-4caa-8205-afc2c836a872","blendMode":0,"displayName":"Layer 3","isLocked":false,"opacity":100.0,"visible":true,},
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8a9ca7cb-950a-4393-9450-180144e5ba3d","blendMode":0,"displayName":"Layer 2","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8aa81e47-da0c-4d91-9953-3e6a684eb538","blendMode":0,"displayName":"Layer 1","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,

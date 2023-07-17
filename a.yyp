@@ -37,6 +37,7 @@
   },
   "resources": [
     {"id":{"name":"Obj_Hazard","path":"objects/Obj_Hazard/Obj_Hazard.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"spr_player_idle_down","path":"sprites/spr_player_idle_down/spr_player_idle_down.yy",},},
     {"id":{"name":"spr_player_xwalk","path":"sprites/spr_player_xwalk/spr_player_xwalk.yy",},},
     {"id":{"name":"spr_player_ywalk_Down","path":"sprites/spr_player_ywalk_Down/spr_player_ywalk_Down.yy",},},
@@ -60,6 +61,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
