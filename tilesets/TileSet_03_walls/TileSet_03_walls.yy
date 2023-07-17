@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet_01_pizzeria",
+  "name": "TileSet_03_walls",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "spr_tileSet_floor_01",
-    "path": "sprites/spr_tileSet_floor_01/spr_tileSet_floor_01.yy",
+    "name": "spr_tileSet_walls_01",
+    "path": "sprites/spr_tileSet_walls_01/spr_tileSet_walls_01.yy",
   },
   "spriteNoExport": true,
   "textureGroupId": {

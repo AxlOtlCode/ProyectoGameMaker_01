@@ -28,6 +28,7 @@
     {"name":"Spr_Col","order":2,"path":"sprites/Spr_Col/Spr_Col.yy",},
     {"name":"spr_tileSet_walls_01","order":2,"path":"sprites/spr_tileSet_walls_01/spr_tileSet_walls_01.yy",},
     {"name":"spr_tileSet_02_furniture","order":1,"path":"sprites/spr_tileSet_02_furniture/spr_tileSet_02_furniture.yy",},
+    {"name":"TileSet_03_walls","order":3,"path":"tilesets/TileSet_03_walls/TileSet_03_walls.yy",},
     {"name":"Obj_Colis","order":1,"path":"objects/Obj_Colis/Obj_Colis.yy",},
   ],
 }
