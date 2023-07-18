@@ -23,3 +23,9 @@ if (!keyboard_check(vk_anykey)){
 	sprite_index = spr_player_idle_down;
 	image_xscale = 1;
 }
+
+if (hp <= 0){
+	room_goto( RoomGAMEOVER );
+}
+show_debug_message("VIDA: ");
+show_debug_message(hp);

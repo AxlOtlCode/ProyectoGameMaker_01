@@ -21,6 +21,7 @@
     {"name":"Obj_Hazard","order":2,"path":"objects/Obj_Hazard/Obj_Hazard.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Obj_Room","order":3,"path":"objects/Obj_Room/Obj_Room.yy",},
+    {"name":"RoomGAMEOVER","order":2,"path":"rooms/RoomGAMEOVER/RoomGAMEOVER.yy",},
     {"name":"spr_player_idle_down","order":1,"path":"sprites/spr_player_idle_down/spr_player_idle_down.yy",},
     {"name":"Sprite14","order":5,"path":"sprites/Sprite14/Sprite14.yy",},
     {"name":"spr_player_xwalk","order":2,"path":"sprites/spr_player_xwalk/spr_player_xwalk.yy",},
