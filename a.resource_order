@@ -18,9 +18,11 @@
     {"name":"Timelines","order":9,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"Obj_Hazard","order":3,"path":"objects/Obj_Hazard/Obj_Hazard.yy",},
+    {"name":"Obj_Hazard","order":2,"path":"objects/Obj_Hazard/Obj_Hazard.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Obj_Room","order":3,"path":"objects/Obj_Room/Obj_Room.yy",},
     {"name":"spr_player_idle_down","order":1,"path":"sprites/spr_player_idle_down/spr_player_idle_down.yy",},
+    {"name":"Sprite14","order":5,"path":"sprites/Sprite14/Sprite14.yy",},
     {"name":"spr_player_xwalk","order":2,"path":"sprites/spr_player_xwalk/spr_player_xwalk.yy",},
     {"name":"spr_player_ywalk_Down","order":4,"path":"sprites/spr_player_ywalk_Down/spr_player_ywalk_Down.yy",},
     {"name":"obj_Player","order":1,"path":"objects/obj_Player/obj_Player.yy",},
