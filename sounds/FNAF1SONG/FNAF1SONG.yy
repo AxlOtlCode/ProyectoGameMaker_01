@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "FNAF1SONG.mp3",
   "type": 1,
-  "volume": 0.03,
+  "volume": 0.34,
 }
