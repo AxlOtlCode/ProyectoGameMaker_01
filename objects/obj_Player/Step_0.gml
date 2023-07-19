@@ -28,5 +28,3 @@ if (hp <= 0){
 	room_goto( RoomGAMEOVER );
 	audio_stop_sound(FNAF1SONG);
 }
-show_debug_message("VIDA: ");
-show_debug_message(hp);
