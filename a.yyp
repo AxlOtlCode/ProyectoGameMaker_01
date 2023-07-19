@@ -59,6 +59,7 @@
     {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},},
     {"id":{"name":"spr_tileSet_02_furniture","path":"sprites/spr_tileSet_02_furniture/spr_tileSet_02_furniture.yy",},},
     {"id":{"name":"TileSet_03_walls","path":"tilesets/TileSet_03_walls/TileSet_03_walls.yy",},},
+    {"id":{"name":"GAME_OVER","path":"objects/GAME_OVER/GAME_OVER.yy",},},
     {"id":{"name":"Obj_Colis","path":"objects/Obj_Colis/Obj_Colis.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
