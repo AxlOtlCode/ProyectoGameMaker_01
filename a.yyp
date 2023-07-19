@@ -60,7 +60,6 @@
     {"id":{"name":"Spr_Col","path":"sprites/Spr_Col/Spr_Col.yy",},},
     {"id":{"name":"spr_player_idle_up","path":"sprites/spr_player_idle_up/spr_player_idle_up.yy",},},
     {"id":{"name":"spr_tileSet_walls_01","path":"sprites/spr_tileSet_walls_01/spr_tileSet_walls_01.yy",},},
-    {"id":{"name":"ENDINGSENSOR","path":"objects/ENDINGSENSOR/ENDINGSENSOR.yy",},},
     {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},},
     {"id":{"name":"spr_tileSet_02_furniture","path":"sprites/spr_tileSet_02_furniture/spr_tileSet_02_furniture.yy",},},
     {"id":{"name":"TileSet_03_walls","path":"tilesets/TileSet_03_walls/TileSet_03_walls.yy",},},

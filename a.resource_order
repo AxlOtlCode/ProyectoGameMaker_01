@@ -37,7 +37,6 @@
     {"name":"spr_charCol","order":1,"path":"sprites/spr_charCol/spr_charCol.yy",},
     {"name":"TileSet_04","order":4,"path":"tilesets/TileSet_04/TileSet_04.yy",},
     {"name":"spr_tileSet_walls_01","order":2,"path":"sprites/spr_tileSet_walls_01/spr_tileSet_walls_01.yy",},
-    {"name":"ENDINGSENSOR","order":7,"path":"objects/ENDINGSENSOR/ENDINGSENSOR.yy",},
     {"name":"Sprite12","order":5,"path":"sprites/Sprite12/Sprite12.yy",},
     {"name":"spr_tileSet_02_furniture","order":1,"path":"sprites/spr_tileSet_02_furniture/spr_tileSet_02_furniture.yy",},
     {"name":"TileSet_03_walls","order":3,"path":"tilesets/TileSet_03_walls/TileSet_03_walls.yy",},
