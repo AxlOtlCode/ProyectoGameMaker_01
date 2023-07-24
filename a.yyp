@@ -50,6 +50,7 @@
     {"id":{"name":"spr_tileSet_floor_01","path":"sprites/spr_tileSet_floor_01/spr_tileSet_floor_01.yy",},},
     {"id":{"name":"Spr_Hazard","path":"sprites/Spr_Hazard/Spr_Hazard.yy",},},
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
+    {"id":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},},
     {"id":{"name":"spr_tileSet_texures_01","path":"sprites/spr_tileSet_texures_01/spr_tileSet_texures_01.yy",},},
     {"id":{"name":"spr_player_ywalk_Up","path":"sprites/spr_player_ywalk_Up/spr_player_ywalk_Up.yy",},},
     {"id":{"name":"spr_charCol","path":"sprites/spr_charCol/spr_charCol.yy",},},
